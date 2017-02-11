@@ -9,7 +9,7 @@ var opn       = require('opn');
 var autoprefixer = require('autoprefixer');
 
 var sourcePaths = {
-  styles: ['scss/**/*.scss']
+  styles: ['scss/*.scss']
 };
 
 var distPaths = {
